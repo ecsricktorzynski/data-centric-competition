@@ -7,4 +7,17 @@
 * Curate data
 * Run Initial Dataset
 * Augment Dataset
+* Address Edge Cases
+* Error Analysis
 * Repeat
+
+## Difficulties
+* Reached a plateau
+* Leaderboard updated once or twice a week - no immediate feedback
+* Totally unknown test sets
+
+## Final Standing
+* ~60 Training runs
+* ~15 submissions
+* 50th place 0.83017
+* Winning entry: 0.86570
